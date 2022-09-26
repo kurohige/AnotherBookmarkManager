@@ -11,3 +11,6 @@ BookmarkManager assignment for Integrify
 
 ##### Adding to these technologies is worth mentioning the usage of a *docker compose* htat stores the database and runs locally on my machine. 
 
+##### In the Models folders you should be able to locate the classes that make up the API request for get and set. 
+##### while the Data folder contains the 2 database context that are used to post and get the data from the folder and the bookmark objects. 
+##### The controllers folders has the entire Api mapped down for each request, along with the routes as requested in the assignment. 
